@@ -8,5 +8,15 @@
   {"id": "7", "url": "https://lichess.org/training/7"},
   {"id": "8", "url": "https://lichess.org/training/8"},
   {"id": "9", "url": "https://lichess.org/training/9"},
-  {"id": "10", "url": "https://lichess.org/training/10"}
+  {"id": "10", "url": "https://lichess.org/training/10"},
+  {"id": "11", "url": "https://lichess.org/training/11"},
+  {"id": "12", "url": "https://lichess.org/training/12"},
+  {"id": "13", "url": "https://lichess.org/training/13"},
+  {"id": "14", "url": "https://lichess.org/training/14"},
+  {"id": "15", "url": "https://lichess.org/training/15"},
+  {"id": "16", "url": "https://lichess.org/training/16"},
+  {"id": "17", "url": "https://lichess.org/training/17"},
+  {"id": "18", "url": "https://lichess.org/training/18"},
+  {"id": "19", "url": "https://lichess.org/training/19"},
+  {"id": "20", "url": "https://lichess.org/training/20"}
 ]
